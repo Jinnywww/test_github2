@@ -1,1 +1,4 @@
 this is day 2 of testing github
+this is second line
+this is 3rd line
+
